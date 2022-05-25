@@ -1,4 +1,4 @@
-function countingFunction (){
+function SettingBillFunction (){
 var SmsCost = 0;
 var callCost = 0;
 var TotalCost = 0;

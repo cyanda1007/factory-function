@@ -1,4 +1,4 @@
-function countingFunction (){
+function RadioBillFunction (){
   var SmsCost = 0;
   var callCost = 0;
   var TotalCost = 0;
@@ -14,11 +14,11 @@ function countingFunction (){
   }
   
   
-  function setCallCost(bill){
+  function setCallCost(){
       callCost = 2.75
       
   }
-  function setSmsCost(cost){
+  function setSmsCost(){
      SmsCost = 0.75
       
   }
